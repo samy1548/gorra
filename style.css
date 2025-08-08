@@ -59,7 +59,7 @@ header nav a:hover {
     display: flex;
     flex-wrap: wrap; /* 🔑 esto permite que se acomoden en varias filas */
     justify-content: center;
-    padding: 40px 8%;
+    padding: 20px 0%;
     margin: 10px;
     gap: 20px; /* espacio entre tarjetas */
 }
