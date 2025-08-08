@@ -52,7 +52,7 @@ header nav a:hover {
 }
 .hero img {
     width: 300px;
-    max-width: 105%;
+    max-width: 100%;
     border-radius: 10px;
 }
 .productos {
@@ -80,7 +80,7 @@ header nav a:hover {
     transform: translateY(-5px);
 }
 .card img {
-    width: 100%;
+    width: 105%;
     margin-bottom: 10px;
 }
 .card select {
